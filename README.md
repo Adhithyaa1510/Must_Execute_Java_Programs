@@ -1,1 +1,1 @@
-Programs are available under SRC
+Programs are available under src
