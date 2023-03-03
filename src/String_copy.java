@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sample5 {
+public class String_copy {
     public static void main(String args[])
     {  int i=0;
        char a[]=new char[30];

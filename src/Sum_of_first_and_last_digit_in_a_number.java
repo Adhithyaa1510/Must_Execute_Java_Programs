@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sample2 {
+public class Sum_of_first_and_last_digit_in_a_number {
     public static void main(String args[])
     {
         int count=0,digit;

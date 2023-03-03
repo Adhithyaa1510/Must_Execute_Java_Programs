@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sample3 {
+public class Prime_or_not {
     public static void main(String args[])
     {
         int i,n,flag=0;

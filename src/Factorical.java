@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sample1 {
+public class Factorical {
     public static void main(String args[])
     {
         int sum=0,i;
